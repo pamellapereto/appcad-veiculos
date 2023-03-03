@@ -24,6 +24,11 @@
 
 <img style="width: 800px" src="https://s4.aconvert.com/convert/p3r68-cdx67/aeago-uyrqv.jpg" alt="Validação de número de digítos para a placa no formulário">
 
+## Responsividade
+
+<img src="https://s4.aconvert.com/convert/p3r68-cdx67/aoxlg-b7p62.jpg" alt="Layout responsivo da tela de consulta de veículos">
+
+<img src="https://s4.aconvert.com/convert/p3r68-cdx67/ajpyg-fw53i.jpg" alt="Layout responsivo da tela de formulário de veículos">
 
 # Tecnologias utilizadas
 ## Para armazenamento de dados
