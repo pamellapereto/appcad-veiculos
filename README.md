@@ -4,9 +4,8 @@
 # Sobre o projeto
 <img style="width: 250px" src="https://s4.aconvert.com/convert/p3r68-cdx67/a1nzy-75p1e.png" alt="Logo do projeto Consulta de Veículos">
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Consulta de Veículos é uma aplicação web desenvolvida em React e Bootstrap, a qual utilizou o localStorage e seu métodos para armazenar dados através de um formulário de cadastro de veículos, obtê-los por meio de uma listagem em tabela, editá-los e excluí-los (operação CRUD: create, read, update, delete).
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
