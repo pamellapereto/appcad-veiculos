@@ -26,57 +26,34 @@
 
 
 # Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
+## Para armazenamento de dados
+- localStorage
+
+## Front-end
+- HTML | CSS | JS
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- Bootstrap
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: npm | yarn
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+# Clonar repositório
+git clone https://github.com/pamellapereto/cadVeiculo-React-localStorage
 
-# entrar na pasta do projeto back end
-cd backend
+# Entrar na pasta do projeto front end web
+cd appcad-veiculos
 
-# executar o projeto
-./mvnw spring-boot:run
+# Instalar dependências
+npm install
+
+# Executar o projeto
+npm start
 ```
 
-## Front end web
-Pré-requisitos: npm / yarn
+# Autora
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+Pamella Christini Pereto e Silva
 
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/pamellapereto
