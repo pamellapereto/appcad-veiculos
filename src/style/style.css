@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+@media only screen and (max-width: 480px) {
+    .navbar-brand img {
+        width: 50px;
+    }
+}
+
+.menu-bar {
+    background-image: linear-gradient(135deg, #016198 50%, #E56700 50%);
+
+}
+
+.nav-link {
+    font-size: 18px;
+    margin: 3px;
+    color: #fff !important;
+    position: relative;
+}
+
+.nav-link:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    visibility: hidden;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.nav-link:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+}
+
+.navbar-nav {
+    text-align: right;
+    margin-right: 20px;
+}
+
+.navbar-toggler {
+    padding-right: 20px;
+    outline: none;
+    border: none;
+}
+
+
+.navbar-brand img {
+    width: 210px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .nav-link:hover:before {
+        visibility: hidden;
+    }
+}
+
+.fa-bars {
+    color: #fff;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.fa-pen-to-square {
+    color: #32CD32;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.fa-trash {
+    color: #B22222;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.fa-arrow-left {
+    font-size: 22px;
+    cursor: pointer;
+    margin-top: -21px;
+    margin-bottom: 15px;
+}
+
+
+.customMarca,
+.customAno {
+    background-color: #fff9f5;
+    color: #E56700;
+    font-weight: 400;
+    font-size: 17px;
+    border-color: #E56700;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}
+
+.customModelo,
+.customPlaca {
+    background-color: #f1f8fd;
+    color: #016198;
+    font-weight: 400;
+    font-size: 17px;
+    border-color: #016198;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}
+
+.customAval {
+    background-color: transparent;
+    border: none;
+    color: #E56700;
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 17px;
+}
+
+.customInputMarca,
+.customInputAno {
+    border-color: #E56700;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.customInputModelo,
+.customInputPlaca {
+    border-color: #016198;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.form-control:focus {
+    border-color: #cac5c5;
+    outline: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+
+input:focus::-webkit-input-placeholder {
+    color: transparent;
+  
+}
+
+input:focus:-moz-placeholder {
+    /* Firefox 18- */
+    color: transparent;
+}
+
+input:focus::-moz-placeholder {
+    /* Firefox 19+ */
+    color: transparent;
+}
+
+input:focus:-ms-input-placeholder {
+    color: transparent;
+}
+
+.btn-dark:hover {
+    background-color:#120f0f;
+}
+
+.btnConfirmCancel {
+    background-color: #E56700;
+    border-color: #E56700;
+}
+
+
+.btnConfirmCancel:hover {
+    background-color: #ca5b00;
+    border-color: #ca5b00;
+}
+
+.paginationButton {
+    margin: 10px;
+    margin-top: 30px;
+    background-color: #016198;
+    border: none;
+    color: #ffffff;
+}
+
+.paginationButton:hover {
+    background-color: #054265;
+    color: #ffffff;
+}
+
+.paginationButton:focus {
+    background-color: #a5a5a5;
+}
