@@ -42,7 +42,7 @@ Pré-requisitos: npm | yarn
 # Clonar repositório
 git clone https://github.com/pamellapereto/cadVeiculo-React-localStorage
 
-# Entrar na pasta do projeto front end web
+# Entrar na pasta do projeto
 cd appcad-veiculos
 
 # Instalar dependências
