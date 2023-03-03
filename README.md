@@ -2,22 +2,28 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/pamellapereto/cadVeiculo-React-localStorage/blob/main/LICENSE) 
 
 # Sobre o projeto
-<img style="width: 250px" src="https://s4.aconvert.com/convert/p3r68-cdx67/a1nzy-75p1e.png" alt="Logo do projeto Consulta de Veículos">
+<img style="width: 230px" src="https://s4.aconvert.com/convert/p3r68-cdx67/a1nzy-75p1e.png" alt="Logo do projeto Consulta de Veículos">
 
 
 **Consulta de Veículos é uma aplicação web desenvolvida em React e Bootstrap**, a qual utilizou o localStorage e seu métodos para armazenar dados através de um formulário de cadastro de veículos, obtê-los por meio de uma listagem em tabela, editá-los e excluí-los (operação CRUD: create, read, update, delete).
 
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+## Layout
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+<img style="width: 800px" src="https://s4.aconvert.com/convert/p3r68-cdx67/a8at6-3pf1l.jpg" alt="Consulta com nenhum veículo cadastrado">
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+<img style="width: 800px" src="https://s4.aconvert.com/convert/p3r68-cdx67/ab7e1-agk6c.jpg" alt="Consulta com veículos cadastrados em páginas">
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+<img style="width: 800px" src="https://s4.aconvert.com/convert/p3r68-cdx67/ajv9q-qpi0f.jpg" alt="Confirmação de exclusão de veículo">
+
+<img style="width: 800px" src="https://s4.aconvert.com/convert/p3r68-cdx67/acd5p-rlc60.jpg" alt="Formulário vazio para adicionar novo veículo">
+
+<img style="width: 800px" src="https://s4.aconvert.com/convert/p3r68-cdx67/af7nf-mou8h.jpg" alt="Formulário com campos preenchidos ao adicionar veículo">
+
+<img style="width: 800px" src="https://s4.aconvert.com/convert/p3r68-cdx67/aztec-v6m32.jpg" alt="Validação de campo modelo obrigatório no formulário">
+
+<img style="width: 800px" src="https://s4.aconvert.com/convert/p3r68-cdx67/aeago-uyrqv.jpg" alt="Validação de número de digítos para a placa no formulário">
+
 
 # Tecnologias utilizadas
 ## Back end
