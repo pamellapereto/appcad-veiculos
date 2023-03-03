@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/pamellapereto/cadVeiculo-React-localStorage/blob/main/LICENSE) 
 
 # Sobre o projeto
-<img style="width: 100px" src="https://s4.aconvert.com/convert/p3r68-cdx67/a1nzy-75p1e.png" alt="Logo do projeto Consulta de Veículos">
+<img style="width: 400px" src="https://s4.aconvert.com/convert/p3r68-cdx67/a1nzy-75p1e.png" alt="Logo do projeto Consulta de Veículos">
 
 Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
