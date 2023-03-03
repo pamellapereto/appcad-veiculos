@@ -26,9 +26,6 @@ export const VehicleList = () => {
 
             <h1 className="my-5 text-center">Veículos cadastrados</h1>
 
-
-            {/*<input type='text' placeholder='Pesquisar' />*/}
-
             {
                 vehicles.length > 0 ? (
 
