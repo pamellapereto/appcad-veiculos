@@ -56,4 +56,4 @@ npm start
 
 Pamella Christini Pereto e Silva
 
-<img style="" src="https://www.linkedin.com/in/pamellapereto" alt="LinkedIn">
+<img src="https://www.linkedin.com/in/pamellapereto" alt="LinkedIn">
