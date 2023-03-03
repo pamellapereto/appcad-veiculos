@@ -5,7 +5,7 @@
 <img style="width: 230px" src="https://s4.aconvert.com/convert/p3r68-cdx67/a1nzy-75p1e.png" alt="Logo do projeto Consulta de Veículos">
 
 
-**Consulta de Veículos é uma aplicação web desenvolvida em React e Bootstrap**, a qual utilizou o localStorage e seu métodos para armazenar dados através de um formulário de cadastro de veículos, obtê-los por meio de uma listagem em tabela, editá-los e excluí-los (operação CRUD: create, read, update, delete).
+**Consulta de Veículos é uma aplicação web desenvolvida em React e Bootstrap**, a qual utilizou o localStorage e seus métodos para armazenar dados através de um formulário de cadastro de veículos, obtê-los por meio de uma listagem em tabela, editá-los e excluí-los (operação CRUD: create, read, update, delete).
 
 
 ## Layout
