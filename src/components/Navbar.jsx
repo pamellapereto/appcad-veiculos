@@ -18,7 +18,7 @@ export const Navbar = () => {
                             </li>
 
                             <li className="nav-item">
-                                <a className="nav-link" href="/cadastrar-veiculo">Cadastrar novo</a>
+                                <a className="nav-link" href="/cadastrar-veiculo">Cadastrar novo veículo</a>
                             </li>
 
                         </ul>
